@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "missing_horse_armors:item/chainmail_horse_armor"
+  }
+}

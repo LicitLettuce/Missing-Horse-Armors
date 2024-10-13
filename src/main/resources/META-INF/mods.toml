@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[46,)"
+license="MIT License"
+issueTrackerURL=""
+[[mods]]
+modId="missing_horse_armors"
+version="1.1.0.1.21"
+displayName="Missing Horse Armors"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/missing-horse-armors"
+authors="Licit Lettuce"
+credits="Mod by Licit Lettuce"
+description='''Adds Chainmail and Netherite Horse Armors.'''
+logoFile="logo.png"
+
+[[dependencies.otherspace]]
+modId="forge"
+mandatory=true
+versionRange="[46,)"
+ordering="NONE"
+side="BOTH"
